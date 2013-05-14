@@ -7,6 +7,8 @@ I don't use Java nearly as much as I used to so I can't guarantee much active de
 
 Warning: The unit tests provided are not complete.  For any methods you use, it would be a good idea to write some corresponding unit tests first.  Having said that, I have used jMath successfully in some commercial applications.
 
+[Browse the Javadoc](http://htmlpreview.github.io/?https://github.com/andrewning/jMath/blob/master/javadoc/index.html)
+
 Array1D and Vector
 ------------------
 
@@ -25,3 +27,10 @@ Root Finding
 Finally, a root finding method (Brent's method [1]) is provided.
 
 [1] Brent, R. P., “An Algorithm with Guaranteed Convergence for Finding a Zero of a Function,” The Computer Journal, Vol. 14, No. 4, 1971, pp. 422–425.
+
+License
+-------
+
+Copyright (c) 2010, S. Andrew Ning.  All rights reserved.
+
+All code is licensed under [The MIT License](http://opensource.org/licenses/mit-license.php).
